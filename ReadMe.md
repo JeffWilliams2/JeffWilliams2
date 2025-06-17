@@ -1,5 +1,5 @@
 ## About Me 👨🏻‍💻 
-Data enthusiast passionate about advanced analytics and data engineering.
+Finance enthusiast passionate about advanced analytics and data engineering.
 
 ## 🛠️ Tech Stack
 
