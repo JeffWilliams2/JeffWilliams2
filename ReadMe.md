@@ -15,6 +15,7 @@ Data Scientist & Financial Analyst passionate about applying machine learning an
 
 ## 🌱 Books Currently Reading:
 - Data Warehouse Toolkit
-- Fundementals of Data Engineering 
+- Fundementals of Data Engineering
+- Designing Data-Intensive Applications
 
 
