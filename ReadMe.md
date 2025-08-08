@@ -20,5 +20,5 @@ Data Engineer & Financial Analyst/Enthusiast passionate about applying ML concep
 - Designing Data-Intensive Applications
 
 ## Working with...
-- Python, SQL, Airflow, Delta Lake, Parquet, DuckDB, Polars, PySpark, Docker, Kubernetes, Vector DB (Weaviate), Object Storage (MinIO/S3), LangChain, LlamaIndex
+- Python, SQL, Airflow, Delta Lake, Parquet, DuckDB, PySpark, Docker, Kubernetes, Vector DB (Weaviate), Object Storage (MinIO/S3), LangChain, LlamaIndex
 
