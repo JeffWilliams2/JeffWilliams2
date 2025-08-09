@@ -1,5 +1,5 @@
 ## About Me 👨🏻‍💻 
-Data Engineer & Financial Analyst/Enthusiast passionate about applying ML concepts and Gen AI to financial markets. Building predictive models, trading algorithms, and data pipelines for various use-cases. Enjoy learning about markets, trading, and news aggregation/current events.
+Data & Financial Enthusiast passionate about applying ML concepts and AI to financial markets. Building predictive models, agents, and data pipelines for various use-cases. Enjoy learning about markets, trading, and news aggregation/current events.
 
 ## 🛠️ Tech Stack
 
