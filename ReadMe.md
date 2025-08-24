@@ -1,6 +1,5 @@
 ## About Me 👨🏻‍💻 
-Data Engineer & Financial Enthusiast passionate about applying ML/AI to financial use cases. Passionate about quantitative finance and market structure.
-
+Data Engineer & Financial professional passionate about applying ML/AI to various use cases. Passionate about quantitative finance/ETF analysis.  
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
