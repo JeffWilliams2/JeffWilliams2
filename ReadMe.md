@@ -1,6 +1,9 @@
 ## About Me 👨🏻‍💻 
-Data Engineer & Financial professional passionate about applying ML/AI to various use cases. Passionate about quantitative finance/ETF analysis.  
-## 🛠️ Tech Stack
+Data Engineer building enterprise-scale infrastructure processing 50TB+ datasets. 
+Experience with Kubernetes, Docker, Apache Airflow, Dagster and cloud-native architectures.
+Background in finance with hands-on ML/AI integration capabilities.
+
+Currently focused on: Data pipelines, Infrastructure-as-Code, Financial data systems## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -21,7 +24,7 @@ Data Engineer & Financial professional passionate about applying ML/AI to variou
 - Designing Data-Intensive Applications
 
 ## Working with...
-- Python, SQL, Airflow, Delta Lake, Parquet, DuckDB, PySpark, Docker, Kubernetes, Vector DB (Weaviate), Object Storage (MinIO/S3), LangChain, LlamaIndex
+- Python, SQL, Airflow, Delta Lake, Parquet, DuckDB, PySpark, Docker, Kubernetes, Vector DBs, Object Storage (MinIO/S3), LangChain, LlamaIndex
 
 ### Connect With Me
 - LinkedIn: [jefferywilliams4](https://linkedin.com/in/jefferywilliams4)
