@@ -1,5 +1,5 @@
 ## About Me 👨🏻‍💻 
-Data Engineer building enterprise-scale infrastructure processing 50TB+ datasets. 
+Data Engineer building data pipelines and data infrastructure processing datasets. 
 Experience with Kubernetes, Docker, Apache Airflow, Dagster and cloud-native architectures.
 Background in finance with hands-on ML/AI integration capabilities.
 
