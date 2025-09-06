@@ -3,8 +3,9 @@ Data Engineer building enterprise-scale infrastructure processing 50TB+ datasets
 Experience with Kubernetes, Docker, Apache Airflow, Dagster and cloud-native architectures.
 Background in finance with hands-on ML/AI integration capabilities.
 
-Currently focused on: Data pipelines, Infrastructure-as-Code, Financial data systems## 🛠️ Tech Stack
+Currently focused on: Data pipelines, Financial data.
 
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
