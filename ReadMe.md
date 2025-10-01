@@ -1,9 +1,7 @@
-## About Me 👨🏻‍💻 
-Data Engineer building data pipelines and data infrastructure processing datasets. 
-Experience with Kubernetes, Docker, Apache Airflow, Dagster and cloud-native architectures.
-Background in finance with hands-on ML/AI integration capabilities.
+## About Me 
+Data Engineer building pipelines and solving problems.
 
-## 🛠️ Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -17,13 +15,13 @@ Background in finance with hands-on ML/AI integration capabilities.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🌱 Books Currently Reading:
+## Books Reading:
 - Data Warehouse Toolkit
 - Fundementals of Data Engineering
 - Designing Data-Intensive Applications
 
 ## Working with...
-- Python, SQL, Airflow, Delta Lake, Parquet, DuckDB, PySpark, Docker, Kubernetes, Vector DBs, Object Storage (MinIO/S3), LangChain, LlamaIndex
+- Python, SQL, Airflow, Delta Lake, Parquet, DuckDB, PySpark, Docker, Kubernetes, Vector DBs, MinIO/S3, LangChain, LlamaIndex
 
 ### Connect With Me
 - LinkedIn: [jefferywilliams4](https://linkedin.com/in/jefferywilliams4)
