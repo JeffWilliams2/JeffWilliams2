@@ -20,8 +20,3 @@ Data Engineer building pipelines and solving problems.
 - Fundementals of Data Engineering
 - Designing Data-Intensive Applications
 
-## Working with...
-- Python, SQL, Airflow, Delta Lake, Parquet, DuckDB, PySpark, Docker, Kubernetes, Vector DBs, MinIO/S3, LangChain, LlamaIndex
-
-### Connect With Me
-- LinkedIn: [jefferywilliams4](https://linkedin.com/in/jefferywilliams4)
