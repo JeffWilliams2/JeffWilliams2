@@ -16,17 +16,18 @@ Data Engineer building pipelines and solving problems.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Featured Projects
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/screenshot-banking-pipeline.png" alt="Banking CDC Pipeline" width="45%">
-  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/netflix-dbt-snowflake-pipeline.png" alt="Netflix dbt Snowflake Pipeline" width="45%">
+  <a href="https://github.com/JeffWilliams2/netflix-dbt-snowflake"><img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/netflix-dbt-snowflake-pipeline.png" alt="Netflix dbt Snowflake Pipeline" width="45%"></a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/emr-spark-basic-setup.png" alt="AWS EMR Spark Setup" width="45%">
-  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/travel-recommendations-aws.png" alt="Travel Recommendations AWS" width="45%">
+  <a href="https://github.com/JeffWilliams2/aws-emr-spark-demo"><img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/emr-spark-basic-setup.png" alt="AWS EMR Spark Setup" width="45%"></a>
+  <a href="https://github.com/JeffWilliams2/travel-destination-generator"><img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/travel-recommendations-aws.png" alt="Travel Recommendations AWS" width="45%"></a>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/stock-sector-streamlit.png" alt="Stock Sector Streamlit App" width="45%">
-  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/airbnb-trend-tableau.png" alt="Airbnb Trend Tableau" width="45%">
+  <a href="https://github.com/JeffWilliams2/NYC_Airbnb"><img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/airbnb-trend-tableau.png" alt="Airbnb Trend Tableau" width="45%"></a>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/s&p500-comparison-streamlit.png" alt="S&P 500 Comparison App" width="45%">
