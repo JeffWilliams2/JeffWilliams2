@@ -15,6 +15,24 @@ Data Engineer building pipelines and solving problems.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/screenshot-banking-pipeline.png" alt="Banking CDC Pipeline" width="45%">
+  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/netflix-dbt-snowflake-pipeline.png" alt="Netflix dbt Snowflake Pipeline" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/emr-spark-basic-setup.png" alt="AWS EMR Spark Setup" width="45%">
+  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/travel-recommendations-aws.png" alt="Travel Recommendations AWS" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/stock-sector-streamlit.png" alt="Stock Sector Streamlit App" width="45%">
+  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/airbnb-trend-tableau.png" alt="Airbnb Trend Tableau" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/s&p500-comparison-streamlit.png" alt="S&P 500 Comparison App" width="45%">
+  <img src="https://raw.githubusercontent.com/JeffWilliams2/PortfolioProjects/main/assets/nucleotide-counting-app-streamlit.png" alt="DNA Nucleotide Counting App" width="45%">
+</p>
+
 ## Books Reading:
 - Data Warehouse Toolkit
 - Fundementals of Data Engineering
