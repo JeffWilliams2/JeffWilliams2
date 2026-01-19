@@ -1,5 +1,5 @@
 ## About Me 
-Data Engineer building pipelines and solving problems.
+Data Engineer experienced in designing and operating production-grade batch and streaming pipelines. I’ve built end-to-end data platforms covering ingestion, orchestration, transformation, and analytics using Spark, Airflow, dbt, PostgreSQL, Snowflake, and AWS, with a strong focus on data modeling and reliability.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
