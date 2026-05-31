@@ -38,15 +38,6 @@ Currently at **PermianBytes** building ELT pipelines, dimensional models, and da
 
 ---
 
-## Featured Projects
-
-[![legacy-bank-data-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=JeffWilliams2&repo=legacy-bank-data-pipeline&theme=dark)](https://github.com/JeffWilliams2/legacy-bank-data-pipeline)
-[![realtime-banking-cdc-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=JeffWilliams2&repo=realtime-banking-cdc-pipeline&theme=dark)](https://github.com/JeffWilliams2/realtime-banking-cdc-pipeline)
-[![ten-k-analyzer](https://github-readme-stats.vercel.app/api/pin/?username=JeffWilliams2&repo=ten-k-analyzer&theme=dark)](https://github.com/JeffWilliams2/ten-k-analyzer)
-[![icd-10-coder](https://github-readme-stats.vercel.app/api/pin/?username=JeffWilliams2&repo=icd-10-coder&theme=dark)](https://github.com/JeffWilliams2/icd-10-coder)
-
----
-
 ## Currently Reading
 
 - *The Data Warehouse Toolkit* — Kimball & Ross
